@@ -55,13 +55,13 @@
         "editingStatus": "InProgress",
         "testCaseId": "7e078371-7ef6-4c44-b664-fcdc4d4ae48f",
         "testCaseType": "TestCase",
-        "fileName": "TestCases\\Test_002.xaml"
+        "fileName": "TestCases\\Test_002_Android.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "9407f160-1721-436f-a65d-fbb61d6090a8",
         "testCaseType": "TestCase",
-        "fileName": "TestCases\\Test_003.xaml"
+        "fileName": "TestCases\\Test_003_IOS.xaml"
       }
     ],
     "modernBehavior": true
