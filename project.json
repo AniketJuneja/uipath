@@ -1,0 +1,74 @@
+{
+  "name": "MobileAutomationOnEribank",
+  "description": "Mobile Testing Project",
+  "main": "",
+  "dependencies": {
+    "UiPath.MobileAutomation.Activities": "[22.4.5]",
+    "UiPath.System.Activities": "[22.4.4]",
+    "UiPath.Testing.Activities": "[22.4.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c8eeef52-f9ba-426c-8225-b8bb4c8314b8",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "caa3d5d1-1faf-433e-8f0c-edd905a4888a",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\Test_001.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7e078371-7ef6-4c44-b664-fcdc4d4ae48f",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\Test_002.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9407f160-1721-436f-a65d-fbb61d6090a8",
+        "testCaseType": "TestCase",
+        "fileName": "TestCases\\Test_003.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
